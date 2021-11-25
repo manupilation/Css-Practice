@@ -1,0 +1,24 @@
+.header-container, .footer-container {
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+
+.header-container {
+  background-color: aqua;
+  float: right;
+  /* opacity: 0; */
+}
+
+.footer-container {
+  background-color: blue;
+  float: left;
+}
+
+.content-div-container {
+  background-color: blueviolet;
+}
